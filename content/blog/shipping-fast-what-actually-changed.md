@@ -2,7 +2,7 @@
 title: "Shipping \"fast\": what [actually] changed"
 date: 2026-11-18
 summary: "A look at the release: braces {like this}, <angle> brackets, and more."
-image: "https://api.paragraph.com/og/card.png?label=Test&title=Cover"
+image: "/images/shipping-fast-what-actually-changed-cover.png"
 ---
 
 We shipped a **faster** build, an _easier_ setup, and a [new guide](https://example.com/docs).
